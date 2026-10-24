@@ -1,0 +1,6 @@
+{
+  "name": "RIN AI",
+  "description": "RIN AI Mimi — Ultimate Personal Android Voice Assistant with multilingual voice control (Urdu, Hindi, English), phone automation, notifications, and AI brain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

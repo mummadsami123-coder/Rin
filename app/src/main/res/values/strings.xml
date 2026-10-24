@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RIN AI</string>
+    <string name="assistant_greeting_title">Hello, I\'m Mimi.</string>
+    <string name="assistant_greeting_subtitle">How can I help you today?</string>
+    <string name="assistant_greeting_ur">Ji, main sun rahi hoon.</string>
+    <string name="accessibility_service_description">RIN AI Mimi uses this service to help execute authorized voice navigation actions such as navigating home, back, and helping with app tasks with your permission.</string>
+</resources>
